@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirebaseMoviesSample</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_me">Graduate from Punjab Technical University, Jalandhar. Having completed B.Tech in 2015, I am pursuing my career as an technical consultant/trainer at Brillica Services, Dehradun.</string>
+
+    <string-array name="category">
+        <item>Action</item>
+        <item>Thriller</item>
+        <item>Comedy</item>
+        <item>Suspense</item>
+    </string-array>
+
+</resources>
